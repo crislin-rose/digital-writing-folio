@@ -1,3 +1,5 @@
+**Week 1 (4-5.3.26)**
+
 **What makes a work/piece E-Literature?**
 
 Without taking too much inspiration from the readings this week, a work/piece is categorised as E-Literature when it uses electronic functions--whether it be code, hyperlinks, images, etc.--as its main medium to communicate to an audience. 
