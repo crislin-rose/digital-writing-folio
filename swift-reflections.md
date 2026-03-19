@@ -19,3 +19,5 @@ I would like to be better at exploring more experimental and playful ideas throu
 I would argue that most A.I use currently is for generative purposes. Most users are of a younger generation who desire to cut long, hard-working hours to do simple tasks like solving a math equation or planning and writing an essay. So, with this in mind, I don't know if there truly are ethical use-cases for _generative_ AI. It hinders the growth of critical thinking when used in this way and as a high school tutor, I don't see the benefits when used in this sense. There are also ecological issues when using LLMs, and with that, I also cannot support __any_ use of generative AI since global warming has been a longstanding issue. 
 However, with that being said, I think there is huge nuance when discussing overall ethics with AI and LLMs. Personally, because of the known damage it has on our environment, it feels innately unethical.
 I hope that AI does evolve into something that is more beneficial rather than something that is generative.
+
+# **Week 3**
