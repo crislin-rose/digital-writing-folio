@@ -32,3 +32,7 @@ Instapoets would now have to work _with_ the algorithm, which is almost like a p
 _**Reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).**_
 
 _**How do you currenly position yourself in relation to technology in your creative writing pratice?**_
+
+# **Week 4 (25-26.3.26)**
+
+_**Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?**_
