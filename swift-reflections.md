@@ -2,11 +2,11 @@
 
 **_What makes a work/piece E-Literature?_**
 
-Without taking too much inspiration from the readings this week, a work/piece is categorised as E-Literature when it uses electronic functions--whether it be code, hyperlinks, images, etc.--as its main medium to communicate to an audience. 
+Without taking too much inspiration from the readings this week, a work/piece is categorised as E-Literature when it uses electronic functions--whether it be code, hyperlinks, images, etc.--as its main medium to communicate to an audience. For literature to be classified in such a genre, it should uphold non-trivial interaction, meaning that a reader has to do more than scan a page and flip it. If a reader is clicking on hyperlinks and exploring the possibilities of a text, then it would be classified as E-Literature.
 
 **_Out of the key examples, which did you most like and why?_**
 
-I really enjoyed _Shade_ by _Andrew Plotkin_ as it felt reminiscent of older video games where the goal of the player/viewer is to try and figure out the mechanics and plotline through experimenting with chains of commands. I enjoy how _Shade_ has specific limitations, leaving the viewer to learn the "rules" of the literature.
+I really enjoyed _'Shade'_ by _Andrew Plotkin_ as it felt reminiscent of older video games where the goal of the player/viewer is to try and figure out the mechanics and plotline through experimenting with chains of commands. This trial and error approach to interacting with the piece allows the narrative of _'Shade'_ to unfold at the user's pace and through that, is reliant on the reader's understanding (or lack thereof) of IF statements within code. As someone who has not ventured into this medium, figuring out IF statements were challenging but not unwelcome. I enjoy how _Shade_ has specific limitations on what one is able to do, leaving the viewer to learn the "rules" of the literature.
 
 **_What do you expect from this class? What would you like to be better at by the end of semester?_**
 
