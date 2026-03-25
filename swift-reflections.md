@@ -29,4 +29,6 @@ With this analysis, I agree with Beren that Instagram poetry is E-lit because it
 Instapoets would now have to work _with_ the algorithm, which is almost like a puzzle itself seeing how quickly things change, as well as the readers either seeking out the poetry themselves (which, in my opinion, is a non-trivial act) or trusting that the algorithm provides them with poetry (again, also non-trivial since the user would have had to provide data that they are interested in seeing such posts). 
 
 # **Week 3**
+_**reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).**_
+
 _**How do you currenly position yourself in relation to technology in your creative writing pratice?**_
