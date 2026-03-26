@@ -1,5 +1,5 @@
 # **Week 1 (4-5.3.26)**
-
+## Wednesday (4.3.26)
 **_What makes a work/piece E-Literature?_**
 
 Without taking too much inspiration from the readings this week, a work/piece is categorised as E-Literature when it uses electronic functions--whether it be code, hyperlinks, images, etc.--as its main medium to communicate to an audience. For literature to be classified in such a genre, it should uphold non-trivial interaction, meaning that a reader has to do more than scan a page and flip it. If a reader is clicking on hyperlinks and exploring the possibilities of a text, then it would be classified as E-Literature.
@@ -14,12 +14,7 @@ I had no prior expectations from this class. However, after reading the set read
 I would like to be better at exploring more experimental and playful ideas through utilising this medium to (almost) its fullest capacity.
 
 # **Week 2 (11-12.3.26)**
-_**What do you see as a potential ethical use-cases of AI? What are your hopes for the future of AI?**_
-
-I would argue that most A.I use currently is for generative purposes. Most users are of a younger generation who desire to cut long, hard-working hours to do simple tasks like solving a math equation or planning and writing an essay. So, with this in mind, I don't know if there truly are ethical use-cases for _generative_ AI. It hinders the growth of critical thinking when used in this way and as a high school tutor, I don't see the benefits when used in this sense. There are also ecological issues when using LLMs, and with that, I also cannot support __any_ use of generative AI since global warming has been a longstanding issue. 
-However, with that being said, I think there is huge nuance when discussing overall ethics with AI and LLMs. Personally, because of the known damage it has on our environment, it feels innately unethical.
-I hope that AI does evolve into something that is more beneficial rather than something that is generative.
-
+## Wednesday (11.3.26)
 _**Do you agree with Beren’s argument that Instagram poetry is “indivisible from the surveillance capitalism infrastructure of social media? And what deos the term 'non-trivial' effort mean when it comes to E-Lit?**_
 
 Beren's discussion of whether Instagram poetry can be classified as E-Literature struck a chord for me personally, since I would say I create Instagram poetry myself. Beren asks if ergodic literature, a foundation to defining E-Literature in the past, can be said about posts on social media platforms. She posits that "Perhaps we can agree that a "like" is a trivial engagement. But what about the terabytes of data shed by and then harvested from Instapoetry fans?" (Berens, 2019, para. 8) suggesting that the code and data beneath the surface of a post is non-trivial and thus, can therefore be classified as E-Lit.
@@ -28,10 +23,22 @@ With this analysis, I agree with Beren that Instagram poetry is E-lit because it
 
 Instapoets would now have to work _with_ the algorithm, which is almost like a puzzle itself seeing how quickly things change, as well as the readers either seeking out the poetry themselves (which, in my opinion, is a non-trivial act) or trusting that the algorithm provides them with poetry (again, also non-trivial since the user would have had to provide data that they are interested in seeing such posts). 
 
-# **Week 3 (18-19.3.26)**
-_**Reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).**_
+## Thursday (12.3.26)
+_**What do you see as a potential ethical use-cases of AI? What are your hopes for the future of AI?**_
 
-_**How do you currenly position yourself in relation to technology in your creative writing pratice?**_
+I would argue that most A.I use currently is for generative purposes. Most users are of a younger generation who desire to cut long, hard-working hours to do simple tasks like solving a math equation or planning and writing an essay. So, with this in mind, I don't know if there truly are ethical use-cases for _generative_ AI. It hinders the growth of critical thinking when used in this way and as a high school tutor, I don't see the benefits when used in this sense. There are also ecological issues when using LLMs, and with that, I also cannot support __any_ use of generative AI since global warming has been a longstanding issue. 
+However, with that being said, I think there is huge nuance when discussing overall ethics with AI and LLMs. Personally, because of the known damage it has on our environment, it feels innately unethical.
+I hope that AI does evolve into something that is more beneficial rather than something that is generative.
+
+# **Week 3 (18-19.3.26)**
+## Wednesday (18.3.26)
+**_Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currenly position yourself in relation to technology in your creative writing practice?_**
+
+I would say that I am a slave to "ubiquitous digital platforms" in my daily life. Having grown up with sn iPad at a young age, I quickly became very technologically savy, while also unknowingly forming a dependence on it. However, while I do say I am a slave to such in a present day context (even as a joke, I think there is still some truth to it), I have explored various methods on limiting my screentime and social media usage since it has felt, at times, more of a hinderance than a helper. 
+With this, I have used TikTok, Substack and Instagram stories in relation to my writing practice. I've used it more for promotion than informing my practice
+
+## Thursday (19.3.26)
+_**Reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field.**_
 
 # **Week 4 (25-26.3.26)**
 
