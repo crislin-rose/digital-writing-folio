@@ -38,6 +38,9 @@ With this, I have used TikTok, Substack and Instagram stories in relation to my 
 ## Thursday (19.3.26)
 _**Reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field.**_
 
+Records and archives have always been proven useful no matter how seemingly "insignificant" something may be. Through documentation and tracking, especially within the digital field, it promotes new thinking and experimentation with code or with theory that might not have been created if not for documentation.\
+The trial and error approach is seen throughout every academic field, so by tracking ones own trial and error approaches, it helps give the field a greater insight and clarity into the current methods being explored and experimented with. 
+
 # **Week 4 (25-26.3.26)**
 ## Wednesday (25.3.26)
 _**Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?**_
