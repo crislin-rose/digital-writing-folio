@@ -10,4 +10,8 @@ When I'm scribbling--what I call the work I produce that is less serious--I eith
 
 _**How do these tools shape the way you write (e.g., constrain or generate)?**_
 
+These tools are more generative than constraining as I free myself from all kinds of judgement, even myself, as once a piece is done I don't have any reason to reread it unless I wanted to see what I've previously written in the past. This lean into unseriousness gives me permission to write whatever I wanted, however I wanted, and wherever I wanted. 
+
 _**What are curious about writing in the digital environment?**_
+
+This subject has led me to think more expansively as to what literature can look like and what it can do. From reviewing different types of electronic literature, I'm curious as to how A.I will hinder/support things like E-Lit in the future.
