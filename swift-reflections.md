@@ -45,6 +45,9 @@ The trial and error approach is seen throughout every academic field, so by trac
 ## Wednesday (25.3.26)
 _**Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?**_
 
+_How to Knit a Human_ by Anna Jacobson is a Twine created story that depicts what it's like to be treated with a mental illness. I worked through/read this piece alongside my friend who would choose the option I didn't pick and in doing so, found that there is an illusion of choice. Even though one option might seem different, the main character ends up doing what they wanted to do anyway. For example, you get the option to eat all the chocolates at once or you can choose whether to save them up. Either choice leads to her eating the chocolates.\
+The narrative is linear as the reader progresses through the story the same way as the narrator. This narrator, however, delves into being unreliable as their memory escapes them and they only remember details of their life post-treatment for their mental health issues. 
+
 ## Thursday (26.3.26)
 _**Thinking about whatever seeds of ideas are gestating in terms of your main digital project for this class, situate your potential digital work both at a personal level and within a broader context/politics. What are your motivators for telling your particular story in the digital space? Does your emerging digital work speak to a broader ethics or politics, or does it relate to a specific community or movement, or else to theory or a certain tradition?**_
 
