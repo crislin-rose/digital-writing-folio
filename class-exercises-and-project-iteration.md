@@ -6,3 +6,4 @@ The revised idea is...
 
 ### Planning and Pinning
 My next steps are to fully actualise the story I want to tell and map it out. I would also need to figure out how to fully immerse the user into the story regardless of gender and sexuality to really unsettle the user in the way that I want to.\
+By the start of next week, I would have the full story actualised and mapped out, and by next Wednesday I would have figured out how to fully immerse the reader into the story.
