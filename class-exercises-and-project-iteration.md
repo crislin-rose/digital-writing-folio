@@ -24,7 +24,7 @@ The mapping of the story was not difficult as I just needed to digitalise my tho
 ### **Iterations**
 
 I have not begun the iterative process yet in regards to my work. As I spent most of the week planning and drafting, so that is what I will be trialing this week.\
-For my first test, I want to play around with creating text boxes and playing with the cyclical links in Twine.
+For my first test, I want to play around with creating text boxes and playing with the cyclical links in Twine where your choice sticks throughout the story. This would help set up the atmosphere as well as making the player's choices about appearance matter throughout the gameplay.  
 
 ## Progress Check (23.4.25)
 
