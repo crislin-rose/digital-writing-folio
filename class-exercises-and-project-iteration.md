@@ -29,5 +29,14 @@ For my first test, I want to play around with creating text boxes and playing wi
 ## Progress Check (23.4.25)
 
 <ins>**Puropose & Inspiration**</ins>
+
+The purpose of this piece is to bring attention to the survival instinct to fawn. There is a lack of media that highlights this phenomenon as a focal point and so I wanted to fill that gap with my own project. 
+
 <ins>**Overall Vision**</ins>
+
+Architectually, my narrative is linear with braches that come back to the main plot. My four screen prototypes illustrates the linear prologue/introductory section before it branches off. This prologue still allows the reader to interact with the text as they choose what they want to look like through cyclical links.\
+I haven't gotten workshop feedback on my four screens yet, but after they are finalised I will ask for peer feedback. 
+
 <ins>**Next Steps**</ins>
+
+My next steps are to finalise my protoypes, create the powerpoint presentation for next week and write out a rough draft of my script. 
