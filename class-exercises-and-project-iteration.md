@@ -15,7 +15,19 @@ By the start of next week, I would have the full story actualised and mapped out
 
 ## Progress Check (22.4.25)
 I have completed most of what I wanted to do by this week.\
-The easiest part was finalising how to fully immerse the reader into the story. I decided to start with a prologue in which the player can choose through cyclical link options how they want the protagonist to look. This way, the narratee and the reader have some form of initial bond. I was playing around with the idea of having the reader be an ambiguous gender, but I found that the story I desired to tell came through stronger with a female protagonist as this is could be considered as being created through the female/feminist gaze.\
-The mapping of the story started out as an outline in Notion as that is how I normally plan larger pieces of work:
-https://www.notion.so/Outline-of-Twine-Game-344b2b8307e2800ea4dfd56974a3b681?source=copy_link
+The easiest part was finalising how to fully immerse the reader into the story. I decided to start with a prologue in which the player can choose through cyclical link options how they want the protagonist to look. This way, the narratee and the reader have some form of initial bond. I was playing around with the idea of having the reader be an ambiguous gender, but I found that the story I desired to tell came through stronger with a female protagonist as this is could be considered as being created through the female/feminist gaze.
 
+The mapping of the story started out as an outline in Notion as that is how I normally plan larger pieces of creative work: [Notion plan](https://www.notion.so/Outline-of-Twine-Game-344b2b8307e2800ea4dfd56974a3b681?source=copy_link)\
+And then transferred into the Miro space: [Miro plan](https://au.miro.com/app/board/u3jVOfw9260=/?share_link_id=402112860834)\
+The mapping of the story was not difficult as I just needed to digitalise my thoughts. 
+
+### **Iterations**
+
+I have not begun the iterative process yet in regards to my work. As I spent most of the week planning and drafting, so that is what I will be trialing this week.\
+For my first test, I want to play around with creating text boxes and playing with the cyclical links in Twine.
+
+## Progress Check (23.4.25)
+
+<ins>**Puropose & Inspiration**</ins>
+<ins>**Overall Vision**</ins>
+<ins>**Next Steps**</ins>
