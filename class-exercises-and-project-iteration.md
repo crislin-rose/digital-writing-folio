@@ -1,5 +1,5 @@
 # Assessment Two - Project Iteration
-## Project Audit (15.4.25)
+## Project Audit (15.4.26)
 The early concept for my project is to emulate a dating simulator in the style of _The Dating Game_ from the 60s but within a contemporary setting. I want to make a comment on the current dating scene and how dating apps (like Hinge, Bumble and Tinder) help to gamify it just like they did in the 60s--history repeating itself. I think the anonymity of dating is what makes the act so exciting--the learning of a person--yet the dangers are also very real. 
 
 Over the break, I went on a string of bad dates that proved to be really helpful in regards to this project. I started to reflect on why I always saw a date through even though I realise there's an incompatibility mid-date, leading me to the conclusion that I was subconsciously fawning (the survival instinct of pleasing the other person in order to avoid conflict). This reframed my larger scope idea to something bite-sized and contained.\
@@ -13,7 +13,7 @@ I want my project to emulate visual novel games in which the main focus is on th
 My next steps are to fully actualise the story I want to tell and map it out. I would also need to figure out how to fully immerse the user into the story regardless of gender and sexuality to really unsettle the user in the way that I want to.\
 By the start of next week, I would have the full story actualised and mapped out, and by next Wednesday I would have figured out how to fully immerse the reader into the story.
 
-## Progress Check (22.4.25)
+## Progress Check (22.4.26)
 I have completed most of what I wanted to do by this week.\
 The easiest part was finalising how to fully immerse the reader into the story. I decided to start with a prologue in which the player can choose through cyclical link options how they want the protagonist to look. This way, the narratee and the reader have some form of initial bond. I was playing around with the idea of having the reader be an ambiguous gender, but I found that the story I desired to tell came through stronger with a female protagonist as this is could be considered as being created through the female/feminist gaze.
 
@@ -26,7 +26,7 @@ The mapping of the story was not difficult as I just needed to digitalise my tho
 I have not begun the iterative process yet in regards to my work. As I spent most of the week planning and drafting, so that is what I will be trialing this week.\
 For my first test, I want to play around with creating text boxes and playing with the cyclical links in Twine where your choice sticks throughout the story. This would help set up the atmosphere as well as making the player's choices about appearance matter throughout the gameplay.  
 
-## Progress Check (23.4.25)
+## Progress Check (23.4.26)
 
 <ins>**Puropose & Inspiration**</ins>
 
@@ -40,3 +40,19 @@ I haven't gotten workshop feedback on my four screens yet, but after they are fi
 <ins>**Next Steps**</ins>
 
 My next steps are to finalise my protoypes, create the powerpoint presentation for next week and write out a rough draft of my script. 
+
+# Assessment Three - The Final Project
+## Project Feedback (14.5.26)
+
+## Swift Reflection on Jenny's Piece (14.5.26)
+<ins>**1. What place do affect and emotion have in digital works?**</ins>
+
+Like any piece of media, digital work has the ability to move the reader. To be moved, in my definition, is to be emotionally affected by something. With continually trying to understand e-literature and its seemingly broad definition and scope, affect and emotion feels inherent within any work produced by a person. Even if a work is produced with the help of A.I, the main component within works of e-lit are human-based and thus, their place within is inherent.
+
+<ins>**2. How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?**</ins>
+
+By understanding the existing academic field,  
+
+<ins>**3. What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?**</ins>
+
+The narrative arc within this piece
