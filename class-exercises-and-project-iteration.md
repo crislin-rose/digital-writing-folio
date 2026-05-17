@@ -44,6 +44,8 @@ My next steps are to finalise my protoypes, create the powerpoint presentation f
 # Assessment Three - The Final Project
 ## Project Feedback (14.5.26)
 
+After sharing the literary aspect of my piece--the detailed outline--with Jack and Daniel
+
 ## Swift Reflection on Jenny's Piece (14.5.26)
 <ins>**1. What place do affect and emotion have in digital works?**</ins>
 
