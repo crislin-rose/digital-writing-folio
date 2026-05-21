@@ -42,9 +42,10 @@ I haven't gotten workshop feedback on my four screens yet, but after they are fi
 My next steps are to finalise my protoypes, create the powerpoint presentation for next week and write out a rough draft of my script. 
 
 # Assessment Three - The Final Project
-## Project Feedback (14.5.26)
+## Project Feedback (13.5.26)
 
-After sharing the literary aspect of my piece--the detailed outline--with Jack and Daniel
+After sharing the literary aspect of my piece--the detailed outline--with Jack and Daniel, they both commented on smaller, minute details regarding choice options. This is expected to be smoothed out and elaborated on further when I actualise the script for the meat of my piece.\
+The next step I'm looking to take is to finally write the multiple dialogue options between the stalker and the reader.
 
 ## Swift Reflection on Jenny's Piece (14.5.26)
 <ins>**1. What place do affect and emotion have in digital works?**</ins>
@@ -53,8 +54,17 @@ Like any piece of media, digital work has the ability to move the reader. To be 
 
 <ins>**2. How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?**</ins>
 
-By understanding the existing academic field,  
+By understanding the existing academic field of E-literature, it enriches how one could approach creating a piece of E-Lit as there would be an understanding of the gaps within the field. Through this, iteration becomes as important as the final outcome due to the multiple trials and errors through creation. 
 
 <ins>**3. What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?**</ins>
 
-The narrative arc within this piece
+Adding a narrative arc within reflective writing creates a logical sequence in decribing one's process and in turn, highlights how one got the final point of their current iteration which allows for a satisfying conclusion for that reflective statement. 
+
+## Partial Critical Reflection (14.5.26)
+
+[Write later]
+
+## Individual Process & Soft Deadlines (20.5.26)
+
+
+
