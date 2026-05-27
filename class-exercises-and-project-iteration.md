@@ -69,5 +69,14 @@ The area that needs most attention is...
 
 ## Individual Process & Soft Deadlines (27.5.26)
 <ins>**Key Learning Moments**</ins>
-<ins>**Class Insights and Considerations**</ins>
-<ins>**Addition to the Existing Field**</ins>
+- Learning what electronic literature is and the discussions within the field
+- Learning new programs: VSS and Twine
+- Considering how narratives can be shaped through a digital medium
+  
+<ins>**Class Insights and Considerations**</ins>\
+- Feeling motivated through learning something new
+- Trying to grasp a strong understanding of E-Lit and what is being asked of me 
+- Feeling motivated through sharing ideas with my peers and seeing the actualisation of their work
+
+<ins>**Addition to the Existing Field**</ins>\
+Though I am not truly educated on the gaps within the field of E-Lit, creating something that is personal to me but relatable within the current context of dating and dating apps, adds to the existing field through exploring unexplored feminist themes (such as fawning) through a medium that permits the reader to feel as if they themselves are placed in such situation. Thus, my work fits within the field of e-literature through that. 
