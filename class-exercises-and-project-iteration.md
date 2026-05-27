@@ -73,7 +73,7 @@ The area that needs most attention is...
 - Learning new programs: VSS and Twine
 - Considering how narratives can be shaped through a digital medium
   
-<ins>**Class Insights and Considerations**</ins>\
+<ins>**Class Insights and Considerations**</ins>
 - Feeling motivated through learning something new
 - Trying to grasp a strong understanding of E-Lit and what is being asked of me 
 - Feeling motivated through sharing ideas with my peers and seeing the actualisation of their work
