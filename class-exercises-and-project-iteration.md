@@ -65,6 +65,9 @@ Adding a narrative arc within reflective writing creates a logical sequence in d
 [Write later]
 
 ## Individual Process & Soft Deadlines (20.5.26)
+The area that needs most attention is...
 
-
-
+## Individual Process & Soft Deadlines (27.5.26)
+<ins>**Key Learning Moments**</ins>
+<ins>**Class Insights and Considerations**</ins>
+<ins>**Addition to the Existing Field**</ins>
