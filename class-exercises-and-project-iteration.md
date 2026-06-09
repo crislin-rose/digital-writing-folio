@@ -72,7 +72,7 @@ By the 25th, I would have the script actualised and started coding it into my ga
 ## Individual Process & Soft Deadlines (27.5.26)
 <ins>**Key Learning Moments**</ins>
 - Learning what electronic literature is and the discussions within the field
-- Learning new programs: VSS and Twine
+- Learning new programs: CSS and Twine
 - Considering how narratives can be shaped through a digital medium
   
 <ins>**Class Insights and Considerations**</ins>
