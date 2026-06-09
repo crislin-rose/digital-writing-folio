@@ -65,7 +65,9 @@ Adding a narrative arc within reflective writing creates a logical sequence in d
 [Write later]
 
 ## Individual Process & Soft Deadlines (20.5.26)
-The area that needs most attention is...
+The area that needs most attention is finalising the script. While I have a detailed outline with indications as to the right and wrong choices, I haven't written the dialogue that would be implemented within the game itself. As soon as I have actualised the dialogue, then it would only be a matter of creating a background and figuring out how to transition from one set of dialogue to the next.
+
+By the 25th, I would have the script actualised and started coding it into my game.
 
 ## Individual Process & Soft Deadlines (27.5.26)
 <ins>**Key Learning Moments**</ins>
