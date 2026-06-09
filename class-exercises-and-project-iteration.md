@@ -69,7 +69,7 @@ The area that needs most attention is finalising the script. While I have a deta
 
 By the 25th, I would have the script actualised and started coding it into my game.
 
-## Individual Process & Soft Deadlines (27.5.26)
+## Individual Process (27.5.26)
 <ins>**Key Learning Moments**</ins>
 - Learning what electronic literature is and the discussions within the field
 - Learning new programs: CSS and Twine
