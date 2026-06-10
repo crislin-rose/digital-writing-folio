@@ -85,4 +85,4 @@ By the 25th, I would have the script actualised and started coding it into my ga
 - Feeling motivated through sharing ideas with my peers and seeing the actualisation of their work
 
 <ins>**Addition to the Existing Field**</ins>\
-Though I am not truly educated on the gaps within the field of E-Lit, creating something that is personal to me but relatable within the current context of dating and dating apps, adds to the existing field through exploring unexplored feminist themes (such as fawning) through a medium that permits the reader to feel as if they themselves are placed in such situation. Thus, my work fits within the field of e-literature through that. 
+Though I am not truly educated on the gaps within the field of E-Lit, creating something that is personal to me but relatable within the current context of dating and dating apps, adds to the existing field through exploring unexplored feminist themes (such as fawning) through a medium that permits the reader to feel as if they themselves are placed in such situation. Thus, my work fits within the field of e-literature through utilising the digital medium to tell this story. 
