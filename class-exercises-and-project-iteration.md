@@ -62,7 +62,11 @@ Adding a narrative arc within reflective writing creates a logical sequence in d
 
 ## Partial Critical Reflection (14.5.26)
 
-[Write later]
+The shared class curiosity with consistently asking questions and helping each other with broken code was encouraged throughout the semester. The act of sharing our ideas and progress while we were all trying to figure out new programs, motivated and sparked my creativity again, as there were constantly new perspectives and angles being discussed, ultimately promoting growth and change. It was also rewarding seeing the actualisation of my peers’ projects after hearing them discuss the inspirations and concepts for their pieces, as it caused me to want to do more.\
+Further, being able to learn how to code is a skill that I have always wanted—and now have—due to this course. As I am heavily interested in linguistics, learning how to code had the same feeling as learning a second language—challenging, yet rewarding once understood. This was a key learning moment for me as it widened my horizons to the open-ended possibilities of what literature could look like and be created from. Having the ability to openly experiment and trial-and-error various code while also being given creative freedom, allowed my creativity to flourish through the excitement of learning new programs.\
+Being introduced to CSS was intimidating at first, but once I closely analysed it, the code seemed simple to grasp. This confidence carried over when using Twine since Harlowe 3.3.9 had built-in macros which was clear in identifying what it aimed to do. 
+Through this, my personal experience with using these platforms enlightened me to the various types of literature that could be created within the digital space.
+
 
 ## Individual Process & Soft Deadlines (20.5.26)
 The area that needs most attention is finalising the script. While I have a detailed outline with indications as to the right and wrong choices, I haven't written the dialogue that would be implemented within the game itself. As soon as I have actualised the dialogue, then it would only be a matter of creating a background and figuring out how to transition from one set of dialogue to the next.
